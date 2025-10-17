@@ -1,1 +1,7 @@
-# codetech
+# codetech_machine_learning
+"COMPANY"   : CODE TECH IT SOLUTION
+"NAME"      : EUGINE CHRISTINA.A
+"INTERN ID" : COD123
+"DOMAIN"    : MACHINE LEARNING
+"DURATION"  : 4 WEEKS
+"MENTOR"    : NEELA SANTHOSH
